@@ -12,8 +12,8 @@ export default function FeaturedProjects() {
     <section className="max-w-5xl mx-auto px-6 py-16">
       <AnimatedSection className="flex items-center justify-between mb-8">
         <div>
-          <h2 className="text-2xl font-bold text-text">精選專案</h2>
-          <p className="text-muted text-sm mt-1">我最近在做的事情</p>
+          <h2 className="text-2xl font-bold text-text">Side Project</h2>
+          <p className="text-muted text-sm mt-1">我最近做的小東西，不要被主管看到</p>
         </div>
         <Link
           href="/projects"

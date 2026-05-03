@@ -15,7 +15,7 @@ export default function RecentPosts() {
       <AnimatedSection className="flex items-center justify-between mb-8">
         <div>
           <h2 className="text-2xl font-bold text-text">最新文章</h2>
-          <p className="text-muted text-sm mt-1">技術分享與生活記錄</p>
+          <p className="text-muted text-sm mt-1">技術筆記與生活記錄</p>
         </div>
         <Link
           href="/blog"
